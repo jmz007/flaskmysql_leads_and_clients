@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+#tablesetup{
+    border: 2px solid black;
+    margin-top: 50px;
+    height:200px;
+    width:600px;
+    overflow: auto;
+}
+#chartcontainer{
+    width:600px;
+    float: left;
+}
